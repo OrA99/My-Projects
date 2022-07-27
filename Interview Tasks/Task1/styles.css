@@ -14,7 +14,10 @@
 
 .header {
     background-color: #d3d3d3;
-    margin-top: 0;
+    font-size: 1.75rem;
+}
+.second-header{
+    font-size: 1rem;
 }
 
 
